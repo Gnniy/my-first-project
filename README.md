@@ -1,2 +1,2 @@
-# my-first-project
-这是我在GitHub上的第一个项目
+### This is a comment
+### Each line is a file pattern followed by one or more owers.
